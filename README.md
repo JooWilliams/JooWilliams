@@ -7,10 +7,10 @@
 
 <div align="center">
   <a href="https://github.com/JooWilliams">
-    <img height=170em src="https://github-readme-stats.vercel.app/api?username=JooWilliams&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+    <img height=150em src="https://github-readme-stats.vercel.app/api?username=JooWilliams&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/JooWilliams">
-    <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=JooWilliams&langs_count=8&card_width=320&theme=github_dark&layout=compact" />
+    <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs?username=JooWilliams&langs_count=8&card_width=310&theme=github_dark&layout=compact" />
   </a>
 </div>
 
