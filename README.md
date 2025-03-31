@@ -1,9 +1,9 @@
-# Olá, eu sou José Williams! 👋
+# Olá, pode me chamar de Will! 👋
 
 <!--## Sobre mim -->
 <!-- Adicionar breve descrição -->
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/JooWilliams">
@@ -14,19 +14,19 @@
   </a>
 </div>
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="40"> <!--style="max-width: 100%;">  css -->
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="40"> <!-- style="max-width: 100%;"> HTML -->
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="40"> <!-- style="max-width: 100%;"> MySql -->
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> <!--style="max-width: 100%;">  css -->
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> <!-- style="max-width: 100%;"> HTML -->
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> <!-- style="max-width: 100%;"> MySql -->
   <!-- <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> -->
 </div>
 
-## 🚀 Projetos em Destaque
+### 🚀 Projetos em Destaque
 
 <!-- 
 listar os projetos:
@@ -34,7 +34,7 @@ listar os projetos:
 [![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=JooWilliams&repo=nome-do-repo&theme=github_dark)](https://github.com/JooWilliams/nome-do-repo)
 -->
 
-## 📫 Contatos
+#### 📫 Contatos
 
 <div> 
   <a href="https://www.youtube.com/channel/UC_d9gI7GCanE5Wzohi_vQOQ" target="_blank">
