@@ -4,7 +4,7 @@
 
 <div >
   <a href="https://github.com/JooWilliams">
-    <img height=150em src="https://github-readme-stats.vercel.app/api?username=JooWilliams&rank_icon=github&show_icons=true&theme=holi&include_all_commits=true&hide=contribs,issues&count_private=true"/>
+    <img height=150em src="?username=JooWilliams&rank_icon=github&show_icons=true&theme=holi&include_all_commits=true&hide=contribs,issues&count_private=true"/>
   </a>
   <a href="https://github.com/JooWilliams">
     <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs?username=JooWilliams&langs_count=8&card_width=310&theme=holi&layout=compact" />
@@ -13,17 +13,16 @@
 
 #### 💻 Languages and Tools
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<!--   <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> -->
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="43" height="43"><!-- style="max-width: 100%;"> HTML -->
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="43" height="43"> <!--style="max-width: 100%;">  css -->
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"> <!-- style="max-width: 100%;"> MySql -->
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="html5" width="35" height="35">
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>
 
 <!-- ### 🚀 Current projects -->
 <!-- 
