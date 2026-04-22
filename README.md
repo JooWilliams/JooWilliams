@@ -28,7 +28,7 @@
 
 <div>
 <a href="JooWilliams.github.io" target="blank">
-    <h3>Meu portifólio</h3>
+    Meu portifólio
     </a>
 </div>
 
