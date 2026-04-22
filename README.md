@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
-### 🚀 Current projects
+#### 🚀 Current projects
 [[Portifólio](JooWilliams.github.io)]
 
 
@@ -33,10 +33,11 @@
 <div> 
   <a href="https://www.instagram.com/joo.williams_/?igsh=OHo3bWQxYWhqamsy" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joo.williams_" width="40" height="40">
-  </a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-williams-7b4ba8276" target="_blank">
+    <a href="https://www.linkedin.com/in/jos%C3%A9-williams-7b4ba8276" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="José Williams" width="40" height="40">
   </a>
+  </a>
+  
 <!--   <a href="https://www.youtube.com/channel/UC_d9gI7GCanE5Wzohi_vQOQ" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"  alt="joo.williams_" width="50" height="40">
   </a> -->
