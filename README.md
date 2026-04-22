@@ -25,8 +25,7 @@
 </p>
 
 <!-- ### 🚀 Current projects -->
-
-[![Portifólio](joowilliams.github.io)]
+[[Portifólio](JooWilliams.github.io)]
 
 
 #### 📩 Contact me
