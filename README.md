@@ -4,7 +4,7 @@
 
 <div >
   <a href="https://github.com/JooWilliams">
-    <img height=150em src="https://github-readme-stats.vercel.app/api?username=JooWilliams&rank_icon=github&show_icons=true&theme=holi&include_all_commits=true&hide=stars,issues&count_private=true&show=prs_merged_percentage"/>
+    <img height=150em src="https://github-readme-stats.vercel.app/api?username=JooWilliams&rank_icon=github&show_icons=true&theme=holi&include_all_commits=true&hide=stars,issues&count_private=true"/>
   </a>
   <a href="https://github.com/JooWilliams">
     <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs?username=JooWilliams&langs_count=8&card_width=310&theme=holi&layout=compact" />
@@ -24,13 +24,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
-#### 🚀 Current projects
-
+<!-- #### 🚀 Current projects
 <div>
 <a href="JooWilliams.github.io" target="blank">
     Meu portifólio
     </a>
 </div>
+-->
 
 #### 📩 Contact me
 
