@@ -25,9 +25,9 @@
 </p>
 
 <!-- ### 🚀 Current projects -->
-<!-- 
-[![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=JooWilliams&repo=nome-do-repo&theme=github_dark)](https://github.com/JooWilliams/nome-do-repo)
--->
+
+[![Portifólio](joowilliams.github.io)]
+
 
 #### 📩 Contact me
 
