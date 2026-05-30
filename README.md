@@ -33,16 +33,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 -->
----
-
-## Projetos em destaque
-
-<!-- Liste de 2 a 4 projetos seus. Modelo abaixo — duplique para cada um.
-     Isso é o que mais faz as pessoas pararem pra ler um perfil. -->
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [**Mural.**] | organizador de Finanças. | Type Script |
 
 ---
 
