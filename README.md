@@ -14,7 +14,7 @@
 
 ---
 
-## Tecnologias
+<!--## Tecnologias
 
 **Linguagens**
 
@@ -32,7 +32,7 @@
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
+-->
 ---
 
 ## Projetos em destaque
