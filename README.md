@@ -1,48 +1,52 @@
-# Hello! You can call me Will.👋🏽
+# José Williams
 
-#### 📊 GitHub Statistics
-
-<div >
-  <a href="https://github.com/JooWilliams">
-    <img height=150em src="https://github-readme-stats.vercel.app/api?username=JooWilliams&rank_icon=github&show_icons=true&theme=holi&include_all_commits=true&hide=stars,issues&count_private=true"/>
-  </a>
-  <a href="https://github.com/JooWilliams">
-    <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs?username=JooWilliams&langs_count=8&card_width=310&theme=holi&layout=compact" />
-  </a>
-</div>
-
-#### 💻 Languages and Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-</p>
-
-<!-- #### 🚀 Current projects
-<div>
-<a href="JooWilliams.github.io" target="blank">
-    Meu portifólio
-    </a>
-</div>
--->
-
-#### 📩 Contact me
-
-<div> 
-  <a href="https://www.instagram.com/joo.williams_/?igsh=OHo3bWQxYWhqamsy" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joo.williams_" width="40" height="40">
-  </a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-williams-7b4ba8276" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="José Williams" width="40" height="40">
-  </a>
-</div>
+**Desenvolvedor** · [LinkedIn](www.linkedin.com/in/josé-williams-540684376) · [Instagram](https://www.instagram.com/joo.williams_/?igsh=OHo3bWQxYWhqamsy)
 
 ---
 
-Valeu sô 👍🏽
+## Sobre
+
+<!-- Preencha os itens abaixo. Apague os que não se aplicarem. -->
+
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas
+- 💼 **Atuação:** Dev Jr II - Lavorato
+- 🌱 **Aprendendo no momento:** Java
+
+---
+
+## Tecnologias
+
+**Linguagens**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Banco de dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+
+**Ferramentas**
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Projetos em destaque
+
+<!-- Liste de 2 a 4 projetos seus. Modelo abaixo — duplique para cada um.
+     Isso é o que mais faz as pessoas pararem pra ler um perfil. -->
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [**Mural.**] | organizador de Finanças. | Type Script |
+
+---
+
+## Contato
+
+- **LinkedIn:** [José Williams](www.linkedin.com/in/josé-williams-540684376)
+- **Instagram:** [@joo.williams_](https://www.instagram.com/joo.williams_/?igsh=OHo3bWQxYWhqamsy)
